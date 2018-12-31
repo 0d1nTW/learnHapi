@@ -1,0 +1,26 @@
+{
+  "name": "learnhapi",
+  "version": "1.0.0",
+  "description": "A project for learning hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"mocha --reporter progress \\\"js/**/*.test.js\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0d1nTW/learnHapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "node"
+  ],
+  "author": "0d1n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0d1nTW/learnHapi/issues"
+  },
+  "homepage": "https://github.com/0d1nTW/learnHapi#readme",
+  "dependencies": {
+    "hapi": "^17.8.1"
+  }
+}
